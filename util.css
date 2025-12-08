@@ -65,7 +65,9 @@
     font-family: "ana";
 }
 
-
+.d_none{
+    display: none;
+}
 
 .my_btn{
     background: transparent;
